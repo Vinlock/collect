@@ -1,5 +1,5 @@
 {
-    "name": "tightenco/collect",
+    "name": "vinlock/collect",
     "description": "Collect - Illuminate Collections as a separate package.",
     "keywords": ["laravel", "collection"],
     "license": "MIT",
